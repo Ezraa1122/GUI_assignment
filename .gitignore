@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE specific files (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Local environment variables or secret keys
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# pytest cache
+.pytest_cache/
